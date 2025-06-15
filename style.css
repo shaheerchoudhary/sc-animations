@@ -44,7 +44,7 @@ footer {
     padding: 1em;
     background-color: #ecf0f1;
 }
-.clients {
+clients {
     padding: 2em 1em;
     max-width: 800px;
     margin: auto;
@@ -55,7 +55,7 @@ footer {
     text-align: center;
 }
 
-.client-list {
+client-list {
     list-style: none;
     padding: 0;
     margin: 0 auto;
@@ -63,7 +63,7 @@ footer {
     display: inline-block;
 }
 
-.client-list li {
+client-list li {
     margin: 10px 0;
     font-size: 1.1rem;
 }
